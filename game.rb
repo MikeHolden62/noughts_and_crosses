@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+
 # Game class - accepts the player name, displays instructions and launches the game
 class Game
   attr_reader :player1

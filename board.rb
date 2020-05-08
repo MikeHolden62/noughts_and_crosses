@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+
 # Board - holds the moves made
 class Board
   attr_reader :game_over
