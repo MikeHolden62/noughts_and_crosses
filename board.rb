@@ -6,7 +6,7 @@ class Board
   attr_accessor :position
 
   def initialize
-    @gave_over = false
+    @game_over = false
     @position = { a1: ' ', a2: ' ', a3: ' ', b1: ' ', b2: ' ', b3: ' ', c1: ' ', c2: ' ', c3: ' ' }
   end
 
